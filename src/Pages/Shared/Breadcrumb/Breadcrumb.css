@@ -1,0 +1,10 @@
+.bread{
+    position:absolute;
+    left: 0%;
+    padding-left: 75px;
+}
+.breadcrum-icon{
+    color:black;
+    font-size: medium;
+    font-weight:bolder;
+}
